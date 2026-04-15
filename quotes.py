@@ -61,7 +61,7 @@ quotes = [
 {"text":"凡不可说的，必须保持沉默。","author":"维特根斯坦","source":"逻辑哲学论","year":1921,"type":"statement","weight":1.1},
 {"text":"世界是一个舞台。","author":"莎士比亚","source":"皆大欢喜","year":1599,"type":"statement","weight":1.0},
 {"text":"知识就是力量。","author":"培根","source":"随笔","year":1597,"type":"statement","weight":1.0},
-{"text":"幸福的家庭都是相似的，不幸的家庭各有各的不幸。","author":"托尔斯泰","source":"安娜·卡列尼娜","year":1877,"type":"statement","weight":1.2}
+{"text":"幸福的家庭都是相似的，不幸的家庭各有各的不幸。","author":"托尔斯泰","source":"安娜·卡列尼娜","year":1877,"type":"statement","weight":1.2}, 
 
 # ========= 张爱玲 =========
 # 日常情感的尖刻与精准，最贴近普通人的内心困境
@@ -135,5 +135,5 @@ quotes = [
 {"text":"也许分开是更好的相遇方式。","author":"加缪","source":"随笔","year":1942,"type":"acceptance","weight":1.3},
 {"text":"你不需要被任何人拯救。","author":"西蒙娜·德·波伏娃","source":"第二性","year":1949,"type":"rebellion","weight":1.3},
 {"text":"真正的爱是希望对方自由。","author":"西蒙娜·德·波伏娃","source":"第二性","year":1949,"type":"rebellion","weight":1.3},
-{"text":"我害怕的不是你离开，而是你离开之后我还好好的。","author":"张爱玲","source":"小团圆","year":1976,"type":"struggle","weight":1.4},
+{"text":"我害怕的不是你离开，而是你离开之后我还好好的。","author":"张爱玲","source":"小团圆","year":1976,"type":"struggle","weight":1.4}
 ]
