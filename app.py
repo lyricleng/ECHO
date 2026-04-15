@@ -13,7 +13,7 @@ st.markdown("<h1 style='text-align: center;'>ECHO</h1>", unsafe_allow_html=True)
 
 st.write("")
 
-user_input = st.text_input("", placeholder="你在想什么...")
+user_input = st.text_input("", placeholder="妳在想什麼...")
 
 # ========= 基础函数 =========
 def get_embedding(text):
