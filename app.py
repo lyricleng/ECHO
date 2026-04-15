@@ -10,6 +10,7 @@ st.set_page_config(page_title="人类回声", layout="centered")
 
 # UI
 st.markdown("<h1 style='text-align: center;'>ECHO</h1>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: gray;'>我想要說的前人們都說過了</p>", unsafe_allow_html=True)
 
 st.write("")
 
