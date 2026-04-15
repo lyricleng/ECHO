@@ -39,7 +39,7 @@ if user_input:
 
         scores = []
         for i, emb in enumerate(db_embeddings):
-            score = cosine(user_emb, emb)
+            score = cosine(user_emb, emb) * quotes[i].get("weight", 1)
             scores.append((score, i))
 
         scores.sort(reverse=True)
